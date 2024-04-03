@@ -40,7 +40,7 @@ conda deactivate venv-land
 
 # Delete the virtual environment
 conda env remove --name venv-land
-
+```
 
 ## Tools and Libraries
 - Anaconda
